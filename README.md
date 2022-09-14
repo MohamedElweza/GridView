@@ -1,4 +1,4 @@
-# GridView Screen
+# GridView
 
 A new Flutter project.
 
